@@ -3,7 +3,7 @@ NAIST is a very happy place to study wonderful thing
 It is well-established that .... This study aims to determine how .... Specifically, it investigates whether ... 
 
 
-To test the hypothesis ... we performed a high-quality questionnaire 
+To test the hypothesis based on amazing knowledge, we performed a high-quality questionnaire 
 We conduct very interesting and good experiments.
 Results were analyzed using regression analysis. The results showed a small effect .... 
 
