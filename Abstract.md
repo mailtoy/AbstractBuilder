@@ -5,7 +5,7 @@ It is well-established that  the students are very happy with their lives in the
 
 To test the hypothesis based on amazing knowledge, we performed a high-quality questionnaire 
 We conduct very interesting and good experiments.
-Results were analyzed using regression analysis. The results showed a small effect .... 
+Results were analyzed using regression analysis. The results showed a small effect on the graph so it means the results came out really good. 
 
 
 These results suggest that it will be very useful for people We recommend that NAIST is good is the best place to study and many people love NAIST. 
